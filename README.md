@@ -1,2 +1,2 @@
 # -datasciencecoursera
-Cousera data science repository
+Coursera data science repository for the John Hopkins data science course.
